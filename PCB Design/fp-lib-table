@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name "flyback_48V_48W-backups")(type "KiCad")(uri "${KIPRJMOD}/flyback_48V_48W-backups.pretty")(options "")(descr ""))
-  (lib (name "Resistors_THT")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/Resistor_THT.pretty")(options "")(descr ""))
-  (lib (name "flyback_48V_48W")(type "KiCad")(uri "D:/Business/Hardware/Flyback Converter/flyback_48V_48W.pretty")(options "")(descr ""))
-)
